@@ -89,3 +89,11 @@ As seguintes fontes abertas foram selecionadas e utilizadas no NotebookLM:
 ##  Considerações Finais
 
 Este projeto demonstra o uso consciente e crítico de ferramentas de IA como apoio ao aprendizado, reforçando a importância da curadoria, da engenharia de prompts e da reflexão teórica no processo educacional.
+
+##  Demonstração em Vídeo (NotebookLM)
+
+Para visualizar o resultado final do caderno temático desenvolvido no NotebookLM,  
+assista ao vídeo demonstrativo neste link:
+
+ (https://notebooklm.google.com/notebook/8e1d7966-4972-47c5-a81e-10832ab8dba7/artifact/77b166bb-805b-496a-82e5-aad2df052658)
+
